@@ -3,6 +3,8 @@ layout: post
 title: QtWebKit使用问题总结
 ---
 
+
+
 ## 查找QWebElement方法
 QWebElement loginLink = frame->findFirstElement("TEXT");
 * 如果有id,可以使用TEXT = #id,更严格加标签名使用TEXT = input#id,更加严格加参数TEXT = input[type=text]#id 
