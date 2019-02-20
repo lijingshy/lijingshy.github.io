@@ -3,7 +3,7 @@ layout: post
 title: NUC8ibeh黑苹果
 ---
 
-解决开机粉屏的问题
+1.解决开机粉屏的问题
 ```sh
 1、终端打开，运行
 ioreg -l | grep IODisplayEDID
