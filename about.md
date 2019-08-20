@@ -11,10 +11,7 @@ Some information about you!
 A place to include any other types of information that you'd like to include about yourself.
 
 ```bash
-28867
-NNN5CTSfCMZd
-Y2}vHTd6DtxPKH7q
-2ldBQN9o2OefHt84P5
+Unn89zG41Zb3AkxOM9
 ```
 
 ### Contact me
